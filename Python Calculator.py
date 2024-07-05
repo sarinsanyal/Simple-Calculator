@@ -14,7 +14,7 @@ def ButtonClick(argument):
 '''
 The Calculate part has been done with the help of Operations
 
-Operations has been indexed as follows:
+Operations have been indexed as follows:
 1 means Addition
 0 means Subtraction
 2 means Multiplication
